@@ -64,12 +64,6 @@ python unified_fraud_detector.py
 ### Step 3: View Results
 Open the `interactive_dashboard.html` in your browser or run the Streamlit dashboard (if available).
 
-## 👥 The Team
-
-*   **Ashin** - ML Engineer & Lead Developer
-*   **Omika Singh** - Frontend/UI Designer
-*   **Niranjana Vinod** - Data Cleaning Specialist
-*   **Jobsy Shaji** - Technical Documentation & Report
 
 ## ⚖️ License
 This project is built for the UIDAI Data Hackathon 2026. All rights reserved by the team.
