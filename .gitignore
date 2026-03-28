@@ -1,0 +1,19 @@
+# Large Data Files
+*.csv
+*.xlsx
+*.parquet
+
+# Except for small samples
+!sample_*.csv
+!system_summary.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Windows
+Thumbs.db
+desktop.ini
