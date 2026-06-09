@@ -297,39 +297,6 @@ Based on feature patterns:
 
 ---
 
-## 📝 **Phase 5: Documentation & Handoff**
-
-### **Documentation Suite**
-
-| Document | Purpose | Audience |
-|----------|---------|----------|
-| `PROJECT_OVERVIEW.md` | Conceptual understanding of 4 phases | All stakeholders |
-| `TECHNICAL_SUMMARY.md` | Detailed technical specs, algorithms, results | Technical reviewers |
-| `RESULTS_SUMMARY.md` | Key metrics and findings | Team + Judges |
-| `RISK_CLASSIFICATION_RATIONALE.md` | Why 25%-25%-50% split | Technical + Judges |
-| `ML_RESULTS_EXPLAINED.md` | Explains anomaly counts, risk patterns | Team |
-| `DATA_SOURCE_PROOF.md` | Verifies data lineage and reproducibility | Verification |
-| `CORRECTED_DATA_COUNTS.md` | Actual vs documented data sizes | Team |
-
-### **Team Guides**
-
-| Guide | For | Contains |
-|-------|-----|----------|
-| `ASHIN_GUIDE.md` | ML Engineer | Model development, integration steps |
-| `NIRANJANA_GUIDE.md` | Data Engineer | Data cleaning procedures, validation |
-| `OMIKA_GUIDE.md` | Frontend Dev | Dashboard customization, data integration |
-| `JOBSY_GUIDE.md` | Report Writer | Report structure, narrative, findings |
-
-### **Code Files**
-
-| File | Lines | Purpose |
-|------|-------|---------|
-| `production_data_processor.py` | 240 | Cleans all raw CSV files |
-| `unified_fraud_detector_v2.py` | 366 | ML detection (4 modules) |
-| `dashboard_real_data.html` | ~600 | Interactive visualization |
-| `check_row_counts.py` | 30 | Verifies data sizes |
-
----
 
 ## 🔬 **Technical Specifications**
 
