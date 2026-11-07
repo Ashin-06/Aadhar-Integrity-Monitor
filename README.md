@@ -38,7 +38,7 @@ Aadhar_Integrity_Monitoring_System/
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/Aadhar-Integrity-Monitor.git
+    git clone https://github.com/Ashin-06/Aadhar-Integrity-Monitor.git
     cd Aadhar-Integrity-Monitor
     ```
 

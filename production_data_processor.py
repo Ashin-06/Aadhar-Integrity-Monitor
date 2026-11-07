@@ -6,6 +6,8 @@ Processes ALL CSV files from the three datasets and creates clean, aggregated fi
 Team: Data Cleaning - Niranjana Vinod | ML - Ashin
 """
 
+import sys
+sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 import pandas as pd
 import os
 import glob
